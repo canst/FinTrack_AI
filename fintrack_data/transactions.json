@@ -1,0 +1,34 @@
+[
+    {
+        "id": "trans_1753688752619_0",
+        "date": "28-07-2025",
+        "description": "SAL",
+        "amount": "2500",
+        "category": "Salaire",
+        "account": "Compte Courant"
+    },
+    {
+        "id": "trans_1753688762999_1",
+        "date": "28-07-2025",
+        "description": "SAL",
+        "amount": "1000",
+        "category": "Autres",
+        "account": "\u00c9pargne"
+    },
+    {
+        "id": "trans_1753688810020_2",
+        "date": "28-07-2025",
+        "description": "sal",
+        "amount": "1000",
+        "category": "Salaire",
+        "account": "\u00c9pargne"
+    },
+    {
+        "id": "trans_1753688833239_3",
+        "date": "28-07-2025",
+        "description": "h",
+        "amount": "1200",
+        "category": "Factures",
+        "account": "\u00c9pargne"
+    }
+]
