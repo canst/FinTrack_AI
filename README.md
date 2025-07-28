@@ -1,5 +1,5 @@
 # FinTrack_AI
-FinTrack AI est une application de bureau complète et sécurisée pour la gestion de vos finances personnelles. Développée en Python, elle garantit que toutes vos données restent locales sur votre ordinateur et protégées par un mot de passe grâce à un chiffrement robuste.  Suivez vos transactions sur plusieurs comptes, définissez des budgets mensuels, automatisez vos dépenses récurrentes et analysez vos habitudes financières grâce à un tableau de bord visuel et intuitif.
+FinTrack AI est une application de bureau complète et sécurisée pour la gestion de vos finances personnelles. Développée en Python, elle garantit que toutes vos données restent locales sur votre ordinateur.  Suivez vos transactions sur plusieurs comptes, définissez des budgets mensuels, automatisez vos dépenses récurrentes et analysez vos habitudes financières grâce à un tableau de bord visuel et intuitif.
 
 # FinTrack AI 📊
 

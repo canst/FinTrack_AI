@@ -101,7 +101,13 @@ class RecurringManager(DataManager):
     def __init__(self):
         super().__init__("recurring")
     # Les méthodes add/delete peuvent être ajoutées au besoin
+def add(self, recurring_data):
+        self.data.append(recurring_data)
+        self._save()
 
+def delete(self, recurring_id):
+        self.data = [r for r in self.data if r.get('id') != recurring_id]
+        self._save()
 # ==============================================================================
 # 2. FENÊTRES AUXILIAIRES (POPUPS)
 # ==============================================================================
