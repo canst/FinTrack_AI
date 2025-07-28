@@ -8,14 +8,6 @@
         "account": "Compte Courant"
     },
     {
-        "id": "trans_1753688762999_1",
-        "date": "28-07-2025",
-        "description": "SAL",
-        "amount": "1000",
-        "category": "Autres",
-        "account": "\u00c9pargne"
-    },
-    {
         "id": "trans_1753688810020_2",
         "date": "28-07-2025",
         "description": "sal",
